@@ -136,6 +136,6 @@ Full-Stack Development • Software Engineering • IT / Systems
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn URL]  
-💻 GitHub: [Your GitHub URL]  
-🌐 Portfolio: [Your Portfolio URL]
+💼 LinkedIn: [www.linkedin.com/in/harrison-wier-38835b228]  
+💻 GitHub: [(https://github.com/Harrison2001)]  
+🌐 Portfolio: [(https://portfolio-mu-cyan-29.vercel.app/about)]
